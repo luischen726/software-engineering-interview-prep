@@ -4,24 +4,7 @@
 - Material: [JavaScript.info](https://javascript.info/)
 - Topic: [Variable](https://javascript.info/variables)
 
-## Fleeting note
-- variable is name of storage
-- name associate with memory space
-- syntax to declare a variable: `const`, `let`, and `var`
-- the different between `var` and `let` is that `var` can be reassign from outside of `if` block scope but not function block scope
-- When variable be reassign, it changes value that a variable holds
-- variable's name can not be declare multiple times with `const` and `let`
-- there are two rule for naming variable
-  - name can be character, dight, or symbols such as `$`, and `_`.
-  - first character should not be dights
-- camelCase is recommend for variable naming
-- Capital and lower case are matter for variable naming
-- There is a [list of reserved word ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#reserved_words) that can not use for naming variable
-- Non-Latin letters are allowed, but not recommended
-- An assignment without `use strict` directive that it is allows without declaration syntax such as `const`, `let`, or `var`.
-- `const` is good at declaring something without changing later
-- `const` occurs error if user intent to changes value
-- the name of variable is important for readability. 
+
 ## Literature note
 - A variable is a named binding associated with a value. it helps program to store the information that can be reused during program execution. Javascript use syntax such as `const`,`let` or `var` to declare a variable. The variable can be reuse when needed. A common mistake is that reassigns complete value  which declares by `const`
   
