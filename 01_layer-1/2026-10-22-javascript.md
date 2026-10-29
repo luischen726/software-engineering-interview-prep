@@ -103,6 +103,6 @@ alert(user.name); // 'Pete', changes are seen from the "user" reference
 
 
 ## what should i promote?
-- [js-data-type-object-reference-overview]()
+- [js-data-type-object-reference-overview](02_layer-2/javascript/js-data-type-object-reference-overview.md)
 - [js-data-type-object-assign]()
 - [js-global-function-structuredClone]()

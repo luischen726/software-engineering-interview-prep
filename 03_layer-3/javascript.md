@@ -10,5 +10,6 @@
 
 ## Objects
 - [Overview 🟡](../02_layer-2/javascript/js-data-type-object-overview.md)
-- [A reference for variable](../02_layer-2/javascript/js-data-type-object-reference-overview.md)
+- [A reference for variable 🟡](../02_layer-2/javascript/js-data-type-object-reference-overview.md)
+- [Garbage collection overview](../02_layer-2/javascript/js-data-type-object-garbage-collection-overview.md)
   
